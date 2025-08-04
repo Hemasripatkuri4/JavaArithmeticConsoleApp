@@ -31,7 +31,8 @@ This is a simple Java console-based calculator that performs basic arithmetic op
 ## 📁 Files Included  
 - `Calculator.java` – Main source code  
 - `README.md` – Project documentation  
-- `screenshot.png` – Output preview (optional)  
+- ![Screenshot](screenshot.png)
+  
 
 ## 📚 What I Learned  
 This project helped reinforce my understanding of:
